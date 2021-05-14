@@ -1,0 +1,13 @@
+_Write4BitValueToDataDirBus: CODE, 1899 0 42
+_WriteCommandToLCD: CODE, 1700 0 38
+_main: CODE, 1403 0 67
+_WriteStringToLCD: CODE, 1780 0 54
+_LCDIsBusy: CODE, 1979 0 49
+_ScrollLCD: CODE, 1470 0 27
+_Write4BitValueToDataBus: CODE, 1738 0 42
+_InitLCD: CODE, 1497 0 169
+_WriteDataToLCD: CODE, 1941 0 38
+_GotoYXPositionOnLCD: CODE, 1834 0 12
+_LCD_Char_build: CODE, 1666 0 34
+_ReadLCDAddressCounter: CODE, 1846 0 53
+Total: 625
